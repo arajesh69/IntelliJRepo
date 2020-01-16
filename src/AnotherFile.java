@@ -1,7 +1,6 @@
 public class AnotherFile {
 
     public void test() {
-
-        System.out.print("another test");
+        System.out.println("another test");
     }
 }
